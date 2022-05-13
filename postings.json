@@ -1,0 +1,2946 @@
+[ {
+  "id" : 10,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 74,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 106,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 145,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 222,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 350,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 484,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 213,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 586,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 370,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 880,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 263,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 934,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 647,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 794,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1015,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 842,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 911,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1792,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1283,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1370,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 157,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 846,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1712,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 778,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2460,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2350,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2656,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2614,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1431,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2590,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 258,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 234,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 868,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 248,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1760,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2062,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1120,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2138,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2233,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 890,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 789,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1018,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1644,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 3530,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 4195,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1344,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1138,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 4570,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2509,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2160,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 418,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 218,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 593,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 3412,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 4905,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 3314,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 3430,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 590,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 5261,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 4390,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 254,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 5218,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2467,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 4746,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 6185,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1132,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1551,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2118,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2149,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 5610,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1430,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1738,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 3368,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 5930,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2710,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 238,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 3783,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 3286,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 5856,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2170,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 7543,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 6324,
+  "title" : "La casa HOT!!!",
+  "description" : "Espacio amplio",
+  "address" : "Saavedra 234, Moreno",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 75.0,
+    "rooms" : 2,
+    "environments" : 3,
+    "bathrooms" : 1,
+    "garages" : 1
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "HIGHLIGHTED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 250000.0,
+    "expenses" : 10000.0,
+    "priceLowerPercentage" : 5.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2832,
+  "title" : "Casa en Alquiler",
+  "description" : "En quinto piso",
+  "address" : "Conde 810, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 180.0,
+    "rooms" : 4,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "EMPRENDIMIENTOS",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 7800000.0,
+    "expenses" : 35000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 1354,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2135,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1644,
+  "title" : "Ofertón",
+  "description" : "A estrenar",
+  "address" : "Vedia 4545, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 259.0,
+    "rooms" : 5,
+    "environments" : 4,
+    "bathrooms" : 3,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "EXCLUSIVE",
+  "operationType" : "VENTA",
+  "categoryListing" : "EMPRENDIMIENTO",
+  "price" : {
+    "value" : 1800000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 6361,
+  "title" : "Depertamento en Alquiler",
+  "description" : "Linda zona",
+  "address" : "Av Monroe 4845, CABA",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 40.0,
+    "rooms" : 1,
+    "environments" : 1,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED_DEVELOPMENT",
+  "operationType" : "FORECLOSURE",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 460000.0,
+    "expenses" : 28000.0,
+    "priceLowerPercentage" : 8.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 2210,
+  "title" : "Departamento en Venta",
+  "description" : "Lo que siempre soñaste",
+  "address" : "Cabildo 800, CABA",
+  "picturesUrl" : "https://ingar.zonapropcdn.com/avisos/1/00/49/06/32/90/wh/1793779955.jpg",
+  "features" : {
+    "totalArea" : 55.0,
+    "rooms" : 1,
+    "environments" : 2,
+    "bathrooms" : 1,
+    "garages" : 0
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : true,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "REMATE",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 3500000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 7.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.logo.com",
+    "isPremier" : true
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2235,
+  "title" : "Casa en Venta",
+  "description" : "Completamente amoblado",
+  "address" : "Av Mitre 234, Avellaneda",
+  "picturesUrl" : "https://ingar,zonapropcdn.com/avis01/1/00/49/06/32/98/wxh/1793779957.jpg",
+  "features" : {
+    "totalArea" : 120.0,
+    "rooms" : 3,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 1
+  },
+  "tags" : null,
+  "favorite" : false,
+  "contacted" : false,
+  "viewed" : false,
+  "hasWhatsapp" : false,
+  "publicationType" : "SUPERHIGHLIGHTED",
+  "operationType" : "HIPOTECARIO",
+  "categoryListing" : "CLASIFICADO",
+  "price" : {
+    "value" : 7200000.0,
+    "expenses" : 15000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : "www.otroLogo.com",
+    "isPremier" : false
+  },
+  "isDevelopment" : false
+}, {
+  "id" : 4,
+  "title" : "La casa de Moni",
+  "description" : "Resiste un aluvión",
+  "address" : "Rivadavia 4585, Santa Fe",
+  "picturesUrl" : "www.foto.jpg",
+  "features" : {
+    "totalArea" : 235.0,
+    "rooms" : 2,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "SURETY INSURANCE", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 450000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : null,
+    "isPremier" : null
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 1,
+  "title" : "Super Remate",
+  "description" : "La casa hot",
+  "address" : "Vedia 4543",
+  "picturesUrl" : "www.foto.jpg",
+  "features" : {
+    "totalArea" : 235.0,
+    "rooms" : 2,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "SURETY INSURANCE", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 450000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : null,
+    "isPremier" : null
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 2,
+  "title" : "Mansión",
+  "description" : "Hogar dulce hogar",
+  "address" : "Palpa 2400, CABA",
+  "picturesUrl" : "www.foto.jpg",
+  "features" : {
+    "totalArea" : 235.0,
+    "rooms" : 2,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "SURETY INSURANCE", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 450000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : null,
+    "isPremier" : null
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 3,
+  "title" : "El sin esquinas",
+  "description" : "Home swett home",
+  "address" : "Moldes 2536, Mendoza",
+  "picturesUrl" : "www.foto.jpg",
+  "features" : {
+    "totalArea" : 235.0,
+    "rooms" : 2,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "SURETY INSURANCE", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 450000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : null,
+    "isPremier" : null
+  },
+  "isDevelopment" : true
+}, {
+  "id" : 5,
+  "title" : "Obra en progreso",
+  "description" : "Si venis y ayudas, super descuento!!",
+  "address" : "Vedia 4543",
+  "picturesUrl" : "www.foto.jpg",
+  "features" : {
+    "totalArea" : 235.0,
+    "rooms" : 2,
+    "environments" : 4,
+    "bathrooms" : 2,
+    "garages" : 2
+  },
+  "tags" : [ "RESERVED", "VIDEO", "ADMITS PETS", "CREDIT", "SURETY INSURANCE", "FINANCE" ],
+  "favorite" : true,
+  "contacted" : true,
+  "viewed" : true,
+  "hasWhatsapp" : false,
+  "publicationType" : "CLASIFFIED",
+  "operationType" : "ALQUILER",
+  "categoryListing" : "PARTICULAR",
+  "price" : {
+    "value" : 450000.0,
+    "expenses" : 30000.0,
+    "priceLowerPercentage" : 10.0
+  },
+  "publisher" : {
+    "logoUrl" : null,
+    "isPremier" : null
+  },
+  "isDevelopment" : true
+} ]
