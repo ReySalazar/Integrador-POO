@@ -67,7 +67,7 @@ public class Util {
 
     public static void postingAutocomplete() throws IOException{
         List<Posting> postings = new ArrayList<>();
-        int nroIteraciones = 95;
+        int nroIteraciones = 90;
 
         for(int i=0; i<nroIteraciones; i++){
             Random rnd = new Random();

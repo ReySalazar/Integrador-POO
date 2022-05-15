@@ -138,7 +138,7 @@ public class FilterImpl extends Filter{
         FilterImpl filter = (FilterImpl) o;
         return operationType == filter.operationType && Objects.equals(favorite, filter.favorite) && Objects.equals(contacted, filter.contacted) && Objects.equals(viewed, filter.viewed) && Objects.equals(hasWhatsapp, filter.hasWhatsapp) && publicationType == filter.publicationType && Objects.equals(roomsFrom, filter.roomsFrom) && Objects.equals(roomsTo, filter.roomsTo) && Objects.equals(bathroomsFrom, filter.bathroomsFrom) && Objects.equals(bathroomsTo, filter.bathroomsTo);
     }
-
+    
     @Override
     public int hashCode() {
         return Objects.hash(operationType, favorite, contacted, viewed, hasWhatsapp, publicationType, roomsFrom, roomsTo, bathroomsFrom, bathroomsTo);

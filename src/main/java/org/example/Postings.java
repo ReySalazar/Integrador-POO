@@ -5,6 +5,6 @@ import java.util.List;
 
 public interface Postings {
 
-    List<Posting> findPostings(Filter filter) throws IOException;
+    List<Posting> postings(Filter filter) throws IOException;
 
 }
